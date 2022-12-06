@@ -1,13 +1,9 @@
 pwd
-cd projects
+cd trial-one/
 ls
-cd trial-one
-ls
-git status
-git add test.txt
-git status
-git commit
-git status
+npp test.txt
+ctrl s
 git pull origin main
-clear
+git status
 git push origin main
+git status
