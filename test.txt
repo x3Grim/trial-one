@@ -1,0 +1,13 @@
+pwd
+cd projects
+ls
+cd trial-one
+ls
+git status
+git add test.txt
+git status
+git commit
+git status
+git pull origin main
+clear
+git push origin main
